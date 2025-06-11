@@ -8,8 +8,14 @@ Here is the working link to the website (deployed through streamlit):
 (https://clear-vision-ms2bcuqbjw85bx2w8p8qjn.streamlit.app/)
 
 Here, are some of the results on our website:
+
+
 Degraded/Corrupted Image: ![00002](https://github.com/user-attachments/assets/ae108095-e26e-448e-aa05-204dda5f87fa)
+
+
 Restored Image: ![restored image](https://github.com/user-attachments/assets/9e6b8399-fb27-4804-9b57-73e2ba01af46)
+
+
 
 Full Webpage demo: ![Screenshot 2025-06-12 044046](https://github.com/user-attachments/assets/eeae9e18-4647-41fc-8ed0-dd4f60dbf9c4)
 
